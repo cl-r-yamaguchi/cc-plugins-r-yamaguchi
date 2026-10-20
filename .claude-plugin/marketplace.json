@@ -1,0 +1,13 @@
+{
+  "name": "r-yamaguchi-plugins",
+  "owner": {
+    "name": "Rintaro Yamaguchi"
+  },
+  "plugins": [
+    {
+      "name": "dev-tools",
+      "source": "./plugins/dev-tools",
+      "description": "Development helper skills"
+    }
+  ]
+}

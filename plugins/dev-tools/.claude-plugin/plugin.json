@@ -1,0 +1,8 @@
+{
+  "name": "dev-tools",
+  "description": "Development helper skills",
+  "version": "0.1.0",
+  "author": {
+    "name": "Rintaro Yamaguchi"
+  }
+}
